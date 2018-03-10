@@ -3,7 +3,7 @@ This is a simple program to reconstruct 3D points from two snapshots.
 
 It is also a project of my lesson(EE382) in school. The photos are taken from my iphone 6.
 
-The pipeline 
+The pipeline \\
 – 1. calibrate the camera intrinsic parameters 
 – 2. take two pictures by your phone 
 – 3. Match feature points (SIFT, SURF) 
