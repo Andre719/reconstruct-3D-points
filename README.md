@@ -12,8 +12,8 @@ The pipeline
 – 6. extract the R and t from the essential matrix  
 – 7. triangulate the 3D points 
 
-The mainSIFT.m file uses the SIFT algorithm to calculate the match points.
-The allmain.m file is sample program in Matlab using Minimum eigenvalue algorithm.
-The allmain_SURF.m file is my code using SURF algorithm and Camera distortion correction .
+The mainSIFT.m file uses the SIFT algorithm to calculate the match points.  
+The allmain.m file is sample program in Matlab using Minimum eigenvalue algorithm.  
+The allmain_SURF.m file is my code using SURF algorithm and Camera distortion correction.  
 
 Some of the codes are refer to the Matlab file, Structure From Motion From Two Views.
